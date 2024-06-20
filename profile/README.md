@@ -12,22 +12,22 @@ The machine learning team is responsible for managing and analysing the data use
 ### Machine Learning Division
 | Bangkit ID | Name | Social Media |
 |:----------:|:----:|--------------|
-|M004D4KX1689|Layyinatul Fuadah|[LinkedIn]  |
-|M189D4KY2548|Kahfi Zairan Maulana|[LinkedIn] |
-|M009D4KY3206|Zaidan Abhinoya Athayumna|[LinkedIn] |
+|M004D4KX1689|Layyinatul Fuadah|[LinkedIn](https://www.linkedin.com/in/layyinatul-fuadah-aa7ba7252/)  |
+|M189D4KY2548|Kahfi Zairan Maulana|[LinkedIn](https://www.linkedin.com/in/kahfi-zairan-maulana-880a99289/) |
+|M009D4KY3206|Zaidan Abhinoya Athayumna|[LinkedIn](https://www.linkedin.com/in/zaidan-abhinoya-athayumna-9a321b159/) |
 
 ### Cloud Computing Division
 | Bangkit ID | Name | Social Media |
 |:----------:|:----:|--------------|
-|C193D4KX0274|Sahidah Amalia Farih|[LinkedIn]  |
+|C193D4KX0274|Sahidah Amalia Farih|[LinkedIn](https://www.linkedin.com/in/sahidahamalia/)  |
 |C009D4KY0929|Satrio Rizki Ramadhan|[LinkedIn](https://www.linkedin.com/in/satriorizkirmdhn/) |
 
 
 ### Mobile Development Division
 | Bangkit ID | Name | Social Media |
 |:----------:|:----:|--------------|
-|A263D4KY3651| Taufiq Jati Junianto|[LinkedIn] |
-|A263D4KX3375|Nabiila Widya Khoirunissa |[LinkedIn](https://www.linkedin.com/in/nabiila-widya-khoirunissa/)  
+|A263D4KY3651|Taufiq Jati Junianto|[LinkedIn](https://www.linkedin.com/in/taufiq-jj/) |
+|A263D4KX3375|Nabiila Widya Khoirunissa|[LinkedIn](https://www.linkedin.com/in/nabiila-widya-khoirunissa/)  
 
 ## BirdWatch Repositories
 
@@ -45,6 +45,6 @@ Dive into our cloud services and backend architecture:
 Discover our mobile app development journey:
 - Repository: [birdwatch-md](https://github.com/Casptone-BirdWatch/birdwatch-md)
 
-Each repository plays a crucial role in building and enhancing BirdWatch. Whether you're interested in ML models, cloud infrastructure, or mobile app development, there's something here for you. Feel free to clone, fork, or contribute to any of our repositories. Let's make bird identification accessible and engaging!
+Each repository plays a crucial role in building and enhancing BirdWatch. Whether you're interested in ML models, Cloud infrastructure, or mobile app development, there's something here for you. Feel free to clone, fork, or contribute to any of our repositories. Let's make bird identification accessible and engaging!
 
-Happy coding! 🚀
+Happy coding and BirdWatch-ing! 🔍🦅
