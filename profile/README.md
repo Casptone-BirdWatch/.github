@@ -20,13 +20,31 @@ The machine learning team is responsible for managing and analysing the data use
 | Bangkit ID | Name | Social Media |
 |:----------:|:----:|--------------|
 |C193D4KX0274|Sahidah Amalia Farih|[LinkedIn]  |
-|C009D4KY0929|Satrio Rizki Ramadhan|[LinkedIn] |
+|C009D4KY0929|Satrio Rizki Ramadhan|[LinkedIn](https://www.linkedin.com/in/satriorizkirmdhn/) |
 
 
 ### Mobile Development Division
 | Bangkit ID | Name | Social Media |
 |:----------:|:----:|--------------|
-|A263D4KY3651| Taufiq Jati Junianto|[LinkedIn]  |
+|A263D4KY3651| Taufiq Jati Junianto|[LinkedIn] |
 |A263D4KX3375|Nabiila Widya Khoirunissa |[LinkedIn](https://www.linkedin.com/in/nabiila-widya-khoirunissa/)  
 
-## Repositories
+## BirdWatch Repositories
+
+Explore our three repositories that power our mission:
+
+### Machine Learning Repository
+Explore our ML models and algorithms:
+- Repository: [birdwatch-ml](https://github.com/Casptone-BirdWatch/birdwatch-ml)
+
+### Cloud Computing Repository
+Dive into our cloud services and backend architecture:
+- Repository: [birdwatch-cc](https://github.com/Casptone-BirdWatch/birdwatch-cc)
+
+### Mobile Development Repository
+Discover our mobile app development journey:
+- Repository: [birdwatch-md](https://github.com/Casptone-BirdWatch/birdwatch-md)
+
+Each repository plays a crucial role in building and enhancing BirdWatch. Whether you're interested in ML models, cloud infrastructure, or mobile app development, there's something here for you. Feel free to clone, fork, or contribute to any of our repositories. Let's make bird identification accessible and engaging!
+
+Happy coding! 🚀
